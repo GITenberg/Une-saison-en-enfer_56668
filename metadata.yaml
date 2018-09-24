@@ -1,0 +1,27 @@
+_repo: Une-saison-en-enfer_56668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rimbaud, Arthur
+    alias: Rimbaud, Jean Nicolas Arthur
+    birthdate: 1854
+    deathdate: 1891
+    gutenberg_agent_id: '33825'
+    url: http://www.gutenberg.org/2009/agents/33825
+    wikipedia: http://fr.wikipedia.org/wiki/Arthur_Rimbaud
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2018-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56668'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Une saison en enfer
+url: http://www.gutenberg.org/ebooks/56668
